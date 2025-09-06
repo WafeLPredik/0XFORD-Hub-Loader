@@ -1,5 +1,3 @@
 return {
-    "abc123",
-    "wafkey",
-    "test456"
+    "0XFORD66",
 }
